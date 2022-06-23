@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Emman and I am a total nerd when it comes anything computer and technology related. i am currently learning Python just because i find it interesting and fun.
+
+🌱 I’m currently learning Python and Javascript
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmmanuelGitgud)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EmmanuelGitgud/Emmanuelgitgud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
