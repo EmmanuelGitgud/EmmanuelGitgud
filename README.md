@@ -4,7 +4,7 @@
 
 I am a total nerd when it comes anything computer and technology related. I am currently learning Python because I find it interesting and fun.
 
-Skills: **HTML** | **CSS** | **JS** | **PYTHON** | **CSS**
+Skills: **HTML** | **CSS** | **JS** | **PYTHON** | **C++**
 
 - 🔭 I’m currently working on My **Portfolio** 
 - 🌱 I’m currently learning **Python** and **JavaScript** 
